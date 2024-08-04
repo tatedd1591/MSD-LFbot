@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=U2_3V3_2 Pin=M1-5
+Removed Pin From Net: NetName=U2_3V3_2 Pin=M2-5
+Added Pin To Net: NetName=3V3_input Pin=M1-5
+Added Pin To Net: NetName=3V3_input Pin=M2-5
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Room: Name=connection_board

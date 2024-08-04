@@ -1,0 +1,51 @@
+Added Component: Designator=C1(CP1.5/3.4)
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CP1.5/3.4)
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=Encode1(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=Encoder2(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Line(CON7)
+Add component (AddParameter): Name = "Value"; Value = "Connector 7"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=Sonar(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=IC?-1
+Added Pin To Net: NetName=+12V Pin=R1-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Class: Name=connection_board
+Added Room: Name=connection_board

@@ -1,0 +1,10 @@
+Added Component: Designator=Servo(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=U1_PB10 Pin=Servo-1
+Added Pin To Net: NetName=5V_input Pin=Servo-2
+Added Pin To Net: NetName=GND Pin=Servo-3
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component Servo JP3
+Added Room: Name=connection_board

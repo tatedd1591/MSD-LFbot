@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+12V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=5V_input Pin=C3-2
+Removed Member From Class: ClassName=connection_board Member=Encoder1
+Removed Member From Class: ClassName=connection_board Member=Encoder2
+Removed Member From Class: ClassName=connection_board Member=Motor1
+Removed Member From Class: ClassName=connection_board Member=Motor2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=U1 NewDesignator=Master
+Change Component Designator: OldDesignator=U2 NewDesignator=Slave
+Added Component: Designator=C2(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC-IN)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=M1(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=M2(CON6)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT223-4M)
+Added Pin To Net: NetName=+12V Pin=*-1
+Added Pin To Net: NetName=5V_input Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=*-9
+Added Pin To Net: NetName=U2_PB8 Pin=*-10
+Added Pin To Net: NetName=U2_PB9 Pin=*-16
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V_input Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5V_input Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3_input Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V_input Pin=C7-2
+Added Pin To Net: NetName=+12V Pin=JDC-1
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=JDC-3
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=U1_PA0 Pin=Line-1
+Added Pin To Net: NetName=U1_PA1 Pin=Line-2
+Added Pin To Net: NetName=U1_PA2 Pin=Line-3
+Added Pin To Net: NetName=U1_PA3 Pin=Line-4
+Added Pin To Net: NetName=U1_PA4 Pin=Line-5
+Added Pin To Net: NetName=3V3_input Pin=Line-6
+Added Pin To Net: NetName=GND Pin=Line-7
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=U2_PA6 Pin=M1-3
+Added Pin To Net: NetName=U2_PA7 Pin=M1-4
+Added Pin To Net: NetName=3V3_input Pin=M1-5
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=U2_PA0 Pin=M2-3
+Added Pin To Net: NetName=U2_PA1 Pin=M2-4
+Added Pin To Net: NetName=3V3_input Pin=M2-5
+Added Pin To Net: NetName=5V_input Pin=R46-2
+Added Pin To Net: NetName=5V_input Pin=Sonar-1
+Added Pin To Net: NetName=U1_PA8 Pin=Sonar-2
+Added Pin To Net: NetName=U1_PA9 Pin=Sonar-3
+Added Pin To Net: NetName=GND Pin=Sonar-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3V3_input Pin=U2-2
+Added Pin To Net: NetName=5V_input Pin=U2-3
+Added Pin To Net: NetName=3V3_input Pin=U2-4
+Added Pin To Net: NetName=M1+ Pin=*-4
+Added Pin To Net: NetName=M1+ Pin=M1-1
+Added Net: Name=M1+
+Added Pin To Net: NetName=M1- Pin=*-5
+Added Pin To Net: NetName=M1- Pin=M1-6
+Added Net: Name=M1-
+Added Pin To Net: NetName=M2+ Pin=*-6
+Added Pin To Net: NetName=M2+ Pin=M2-1
+Added Net: Name=M2+
+Added Pin To Net: NetName=M2- Pin=*-7
+Added Pin To Net: NetName=M2- Pin=M2-6
+Added Net: Name=M2-
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R46-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=connection_board Member=Component C5 104
+Added Member To Class: ClassName=connection_board Member=Component C6 104
+Added Member To Class: ClassName=connection_board Member=Component C7 104
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component JDC Jac DC
+Added Member To Class: ClassName=connection_board Member=Component LED2 LED
+Added Member To Class: ClassName=connection_board Member=Component M1 JP6
+Added Member To Class: ClassName=connection_board Member=Component M2 JP6
+Added Member To Class: ClassName=connection_board Member=Component R46 Res1
+Added Member To Class: ClassName=connection_board Member=Component U2 AMS1117_3V3
+Added Room: Name=connection_board

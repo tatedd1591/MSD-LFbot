@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5V Pin=JP-1
+Removed Pin From Net: NetName=GND Pin=JP-2
+Removed Pin From Net: NetName=AOUT1 Pin=JP-3
+Removed Pin From Net: NetName=AOUT2 Pin=JP-4
+Removed Pin From Net: NetName=AOUT3 Pin=JP-5
+Removed Pin From Net: NetName=AOUT4 Pin=JP-6
+Removed Pin From Net: NetName=AOUT5 Pin=JP-7
+Added Pin To Net: NetName=AOUT1 Pin=JP-1
+Added Pin To Net: NetName=AOUT2 Pin=JP-2
+Added Pin To Net: NetName=AOUT3 Pin=JP-3
+Added Pin To Net: NetName=AOUT4 Pin=JP-4
+Added Pin To Net: NetName=AOUT5 Pin=JP-5
+Added Pin To Net: NetName=+5V Pin=JP-6
+Added Pin To Net: NetName=GND Pin=JP-7
+Added Room: Name=Line_detector_sensor

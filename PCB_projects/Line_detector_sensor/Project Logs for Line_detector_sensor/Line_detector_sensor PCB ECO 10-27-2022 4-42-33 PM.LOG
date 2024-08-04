@@ -1,0 +1,121 @@
+Added Component: Designator=JP(CON7)
+Add component (AddParameter): Name = "Value"; Value = "Connector 7"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=JP-1
+Added Pin To Net: NetName=AOUT1 Pin=JP-2
+Added Pin To Net: NetName=AOUT2 Pin=JP-3
+Added Pin To Net: NetName=AOUT3 Pin=JP-4
+Added Pin To Net: NetName=AOUT4 Pin=JP-5
+Added Pin To Net: NetName=AOUT5 Pin=JP-6
+Added Pin To Net: NetName=GND Pin=JP-7
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=AOUT1 Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=+5V Pin=R3-2
+Added Pin To Net: NetName=AOUT2 Pin=R4-1
+Added Pin To Net: NetName=+5V Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=AOUT3 Pin=R6-1
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=+5V Pin=R7-2
+Added Pin To Net: NetName=AOUT4 Pin=R8-1
+Added Pin To Net: NetName=+5V Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=+5V Pin=R9-2
+Added Pin To Net: NetName=AOUT5 Pin=R10-1
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-A
+Added Pin To Net: NetName=GND Pin=U1-CATH
+Added Pin To Net: NetName=AOUT1 Pin=U1-COLL
+Added Pin To Net: NetName=GND Pin=U1-E
+Added Pin To Net: NetName=NetR3_1 Pin=U2-A
+Added Pin To Net: NetName=GND Pin=U2-CATH
+Added Pin To Net: NetName=AOUT2 Pin=U2-COLL
+Added Pin To Net: NetName=GND Pin=U2-E
+Added Pin To Net: NetName=NetR5_1 Pin=U3-A
+Added Pin To Net: NetName=GND Pin=U3-CATH
+Added Pin To Net: NetName=AOUT3 Pin=U3-COLL
+Added Pin To Net: NetName=GND Pin=U3-E
+Added Pin To Net: NetName=NetR7_1 Pin=U4-A
+Added Pin To Net: NetName=GND Pin=U4-CATH
+Added Pin To Net: NetName=AOUT4 Pin=U4-COLL
+Added Pin To Net: NetName=GND Pin=U4-E
+Added Pin To Net: NetName=NetR9_1 Pin=U5-A
+Added Pin To Net: NetName=GND Pin=U5-CATH
+Added Pin To Net: NetName=AOUT5 Pin=U5-COLL
+Added Pin To Net: NetName=GND Pin=U5-E
+Added Member To Class: ClassName=Line_detector_sensor Member=Component JP JP7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R1 330
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R2 4k7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R3 330
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R4 4k7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R5 330
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R6 4k7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R7 330
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R8 4k7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R9 330
+Added Member To Class: ClassName=Line_detector_sensor Member=Component R10 4k7
+Added Member To Class: ClassName=Line_detector_sensor Member=Component U1 TCRT5000
+Added Member To Class: ClassName=Line_detector_sensor Member=Component U2 TCRT5000
+Added Member To Class: ClassName=Line_detector_sensor Member=Component U3 TCRT5000
+Added Member To Class: ClassName=Line_detector_sensor Member=Component U4 TCRT5000
+Added Member To Class: ClassName=Line_detector_sensor Member=Component U5 TCRT5000
+Added Room: Name=Line_detector_sensor

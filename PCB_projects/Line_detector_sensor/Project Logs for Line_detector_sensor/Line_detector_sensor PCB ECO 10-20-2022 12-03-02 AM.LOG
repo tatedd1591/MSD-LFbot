@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DOUT4 Pin=U0-8
+Removed Pin From Net: NetName=AOUT4 Pin=U0-9
+Removed Pin From Net: NetName=DOUT5 Pin=U0-10
+Removed Pin From Net: NetName=AOUT5 Pin=U0-11
+Added Pin To Net: NetName=DOUT5 Pin=U0-8
+Added Pin To Net: NetName=AOUT5 Pin=U0-9
+Added Pin To Net: NetName=DOUT4 Pin=U0-10
+Added Pin To Net: NetName=AOUT4 Pin=U0-11
+Added Room: Name=Line_detector_sensor

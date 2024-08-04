@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=U2_PB3 Pin=*-11
+Added Pin To Net: NetName=U2_PB4 Pin=*-12
+Added Pin To Net: NetName=U2_PB5 Pin=*-13
+Added Pin To Net: NetName=U2_PB6 Pin=*-14
+Added Pin To Net: NetName=U2_PB7 Pin=*-15
+Added Member To Class: ClassName=connection_board Member=Component C2 104
+Added Member To Class: ClassName=connection_board Member=Component C3 104
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component U2 AMS1117_3V3
+Added Room: Name=connection_board

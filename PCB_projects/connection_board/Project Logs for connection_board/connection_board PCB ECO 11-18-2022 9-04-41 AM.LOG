@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=5V_input Pin=C7-2
+Removed Member From Class: ClassName=connection_board Member=C7
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Room: Name=connection_board

@@ -1,0 +1,23 @@
+Change Component Comment : Designator=JP? Old Comment=Header 2_1 New Comment=3V3
+Change Component Comment : Designator=JP1 Old Comment=Header 2_1 New Comment=5V
+Change Component Designator: OldDesignator=JP1 NewDesignator=12V
+Added Component: Designator=?(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=?(HED2)
+Add component (AddParameter): Name = "Class"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Sonar(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connection_board Member=Component 12V Header 2_1
+Added Member To Class: ClassName=connection_board Member=Component ? Motor2
+Added Member To Class: ClassName=connection_board Member=Component ? Motor1
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component JP1 5V
+Added Member To Class: ClassName=connection_board Member=Component JP? 3V3
+Added Room: Name=connection_board

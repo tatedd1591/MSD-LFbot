@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=U2_PB8 Pin=*-10
+Removed Pin From Net: NetName=U2_PB3 Pin=*-11
+Removed Pin From Net: NetName=U2_PB4 Pin=*-12
+Removed Pin From Net: NetName=U2_PB5 Pin=*-13
+Removed Pin From Net: NetName=U2_PB6 Pin=*-14
+Removed Pin From Net: NetName=U2_PB7 Pin=*-15
+Removed Pin From Net: NetName=U2_PB9 Pin=*-16
+Added Pin To Net: NetName=U2_PB1 Pin=*-10
+Added Pin To Net: NetName=U2_PB0 Pin=*-11
+Added Pin To Net: NetName=U2_PA7 Pin=*-12
+Added Pin To Net: NetName=U2_PA6 Pin=*-13
+Added Pin To Net: NetName=U2_PA5 Pin=*-14
+Added Pin To Net: NetName=U2_PA4 Pin=*-15
+Added Pin To Net: NetName=U2_PA3 Pin=*-16
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Room: Name=connection_board

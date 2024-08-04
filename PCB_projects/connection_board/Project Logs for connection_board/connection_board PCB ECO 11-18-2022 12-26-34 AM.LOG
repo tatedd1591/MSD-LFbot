@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=U2_PA6 Pin=*-16
+Removed Pin From Net: NetName=3V3_input Pin=3V3-1
+Removed Pin From Net: NetName=GND Pin=3V3-2
+Removed Pin From Net: NetName=5V_input Pin=5V-1
+Removed Pin From Net: NetName=GND Pin=5V-2
+Removed Pin From Net: NetName=+12V Pin=12V-1
+Removed Pin From Net: NetName=GND Pin=12V-2
+Removed Member From Class: ClassName=connection_board Member=3V3
+Removed Member From Class: ClassName=connection_board Member=5V
+Removed Member From Class: ClassName=connection_board Member=12V
+Added Pin To Net: NetName=U2_PA0 Pin=*-16
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Room: Name=connection_board

@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=LED6-2
+Removed Pin From Net: NetName=+5V Pin=R11-1
+Removed Pin From Net: NetName=+5V Pin=R12-1
+Removed Pin From Net: NetName=+5V Pin=R13-1
+Removed Pin From Net: NetName=+5V Pin=R14-1
+Removed Pin From Net: NetName=+5V Pin=R15-1
+Removed Pin From Net: NetName=+5V Pin=R16-1
+Removed Pin From Net: NetName=AOUT1 Pin=U0-1
+Removed Pin From Net: NetName=AOUT2 Pin=U0-3
+Removed Pin From Net: NetName=AOUT3 Pin=U0-5
+Removed Pin From Net: NetName=GND Pin=U0-7
+Removed Pin From Net: NetName=AOUT5 Pin=U0-9
+Removed Pin From Net: NetName=AOUT4 Pin=U0-11
+Removed Pin From Net: NetName=GND Pin=U0-13
+Removed Pin From Net: NetName=+5V Pin=U0-14
+Removed Member From Class: ClassName=Line_detector_sensor Member=C1
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED1
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED2
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED3
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED4
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED5
+Removed Member From Class: ClassName=Line_detector_sensor Member=LED6
+Removed Member From Class: ClassName=Line_detector_sensor Member=R11
+Removed Member From Class: ClassName=Line_detector_sensor Member=R12
+Removed Member From Class: ClassName=Line_detector_sensor Member=R13
+Removed Member From Class: ClassName=Line_detector_sensor Member=R14
+Removed Member From Class: ClassName=Line_detector_sensor Member=R15
+Removed Member From Class: ClassName=Line_detector_sensor Member=R16
+Removed Member From Class: ClassName=Line_detector_sensor Member=U0
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=4k7
+Change Component Comment : Designator=R4 Old Comment=10k New Comment=4k7
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=4k7
+Change Component Comment : Designator=R8 Old Comment=10k New Comment=4k7
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=4k7
+Change Component Comment : Designator=R1 Old Comment=100 New Comment=330
+Change Component Comment : Designator=R3 Old Comment=100 New Comment=330
+Change Component Comment : Designator=R5 Old Comment=100 New Comment=330
+Change Component Comment : Designator=R7 Old Comment=100 New Comment=330
+Change Component Comment : Designator=R9 Old Comment=100 New Comment=330
+Added Pin To Net: NetName=AOUT1 Pin=JP-2
+Added Pin To Net: NetName=AOUT2 Pin=JP-3
+Added Pin To Net: NetName=AOUT3 Pin=JP-4
+Added Pin To Net: NetName=AOUT4 Pin=JP-5
+Added Pin To Net: NetName=AOUT5 Pin=JP-6
+Added Room: Name=Line_detector_sensor

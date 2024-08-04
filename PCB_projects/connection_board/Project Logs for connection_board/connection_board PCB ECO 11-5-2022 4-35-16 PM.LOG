@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=? NewDesignator=Motor1
+Change Component Designator: OldDesignator=? NewDesignator=Motor2
+Change Component Designator: OldDesignator=JP1 NewDesignator=5V
+Change Component Designator: OldDesignator=JP? NewDesignator=3V3
+Added Member To Class: ClassName=connection_board Member=Component 5V
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component C? JP20
+Added Member To Class: ClassName=connection_board Member=Component Motor2
+Added Member To Class: ClassName=connection_board Member=Component Sonar JP4
+Added Room: Name=connection_board
